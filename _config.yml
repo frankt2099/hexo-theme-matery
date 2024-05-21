@@ -664,7 +664,7 @@ jsDelivr:
   
 # 网站背景图
 background:
-  enable: false
+  enable: true
   url: /medias/background.jpg
 
 # 说说 https://artitalk.js.org/
